@@ -104,7 +104,6 @@ This project focuses on forecasting website traffic using classical time series 
 website_traffic_forecasting/
 │
 ├── data/
-│   └── kaggle_web_traffic_dataset_without_missing_values.ts
 |   └── prophet_30_days_forecast.csv
 |   └── SARIMA_30_days_forecast.csv
 |   └── web_traffic_single_page.csv
