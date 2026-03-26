@@ -99,27 +99,6 @@ This project focuses on forecasting website traffic using classical time series 
 * Prophet
 * Scikit-learn
 
-##  Project Structure
-
-website_traffic_forecasting/
-│
-├── data/
-|   └── prophet_30_days_forecast.csv
-|   └── SARIMA_30_days_forecast.csv
-|   └── web_traffic_single_page.csv
-|   └── Web_traffic_single_page_with_Date.csv
-|       
-├── notebooks/
-│   └── time_series_analysis.ipynb
-│
-├── scripts/
-│   └── extract_single_page.py
-│
-│
-├── README.md
-
-
-
 
 ## Author
 
